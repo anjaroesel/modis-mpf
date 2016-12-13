@@ -12,4 +12,3 @@ all programms starting with validation.....
 
 for time series analysis:
 most recent: zeitreihe_5masked.py
-
